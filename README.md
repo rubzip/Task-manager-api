@@ -5,8 +5,8 @@ The goal is to develop an API for managing the tasks.
 
 ## API Structure
 
-!https://raw.githubusercontent.com/rubzip/Task-manager-api/refs/heads/main/imgs/API_architecture.webp
+![image](https://raw.githubusercontent.com/rubzip/Task-manager-api/refs/heads/main/imgs/API_architecture.webp)
 
 ## DataBase Structure
 
-!https://raw.githubusercontent.com/rubzip/Task-manager-api/refs/heads/main/imgs/database.png
+![image](https://raw.githubusercontent.com/rubzip/Task-manager-api/refs/heads/main/imgs/database.png)
