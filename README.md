@@ -1,7 +1,8 @@
 # Task manager API
  Development of a Task Manager API using FastAPI. First Backend project.
 
-The goal is to develop an API for managing the tasks.
+The goal is to develop an API for managing the tasks. 
+https://roadmap.sh/projects/todo-list-api
 
 ## API Structure
 
